@@ -31,11 +31,14 @@ The panel is draggable and resizable. Everything should feel pretty smooth.
 
 ![screenshot](https://github.com/jordanalbiar/Input-Utility-Module/blob/main/Screenshot_20260530_114517.png?raw=true)
 
+![screenshot](https://github.com/jordanalbiar/Input-Utility-Module/blob/main/Screenshot_20260530_114521.png?raw=true)
+
+![screenshot](https://github.com/jordanalbiar/Input-Utility-Module/blob/main/Screenshot_20260530_114526.png?raw=true)
+
+
 ## Tips
 
 - You can adjust the trigger delay if 1 second feels too long or short.
 - The font replacement works instantly by default (you can add a delay in settings if you want).
 - Custom fonts are added using simple character mapping — it's more powerful than it looks.
 
-![screenshot](https://github.com/jordanalbiar/Input-Utility-Module/blob/main/Screenshot_20260530_114521.png?raw=true)
-![screenshot](https://github.com/jordanalbiar/Input-Utility-Module/blob/main/Screenshot_20260530_114526.png?raw=true)
