@@ -30,7 +30,7 @@ Real-time font transformations, smart emoji & GIF triggers, **and a full built-i
 ## Installation
 
 1. Install **Tampermonkey** (or Violentmonkey) in your browser.
-2. [Click here to install the latest version](https://github.com/jordanalbiar/input-utility-module/raw/main/input-utility-module.user.js)
+2. Copy and paste the code into a new script on **Tampermonkey**.
 
 Or manually:
 - Create a new script in Tampermonkey
