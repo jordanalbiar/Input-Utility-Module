@@ -32,10 +32,6 @@ Real-time font transformations, smart emoji & GIF triggers, **and a full built-i
 1. Install **Tampermonkey** (or Violentmonkey) in your browser.
 2. Copy and paste the code into a new script on **Tampermonkey**.
 
-Or manually:
-- Create a new script in Tampermonkey
-- Paste the entire script and save
-
 ## How to Use
 
 1. Click any text field or textarea.
@@ -62,16 +58,9 @@ The panel is fully draggable and resizable.
 ## Tips
 
 - Font replacement is instant by default (change in Settings if you prefer a delay).
-- GIF Portal works best with a free GIPHY API key (optional — Tenor works without one).
+- GIF Portal works best with a free GIPHY API key (optional, Tenor works without one).
 - You can create custom categories for your GIF triggers to stay organized.
 - Works on most websites including rich text editors.
-
-## Contributing
-
-Love the script? Feel free to suggest:
-- New default fonts
-- Better default emoji/GIF triggers
-- UI improvements
 
 ## Support
 
